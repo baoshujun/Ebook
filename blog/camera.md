@@ -1,0 +1,1 @@
+[Android相机开发中尺寸和方向问题](https://glumes.com/post/android/android-camera-aspect-ratio--and-orientation/)
